@@ -106,14 +106,13 @@
     {
       "SystemName": "ExternalAuth.Facebook",
       "Version": "4.90.3"
+    },
+    {
+      "SystemName": "Payments.AmazonPay",
+      "Version": "4.90.1"
     }
   ],
   "PluginNamesToUninstall": [],
   "PluginNamesToDelete": [],
-  "PluginNamesToInstall": [
-    {
-      "Item1": "Payments.AmazonPay",
-      "Item2": "fca59e46-7a93-4b69-adc1-07d82cafc514"
-    }
-  ]
+  "PluginNamesToInstall": []
 }
